@@ -6,7 +6,7 @@
 }
 
 html {
-  font-family: var(--font-primary)
+  font-family: var(--font-primary);
 }
 
 .card {
@@ -21,7 +21,7 @@ html {
   font-family: var(--font-secondary);
 }
 
-btn {
+.btn {
   background-color: var(--color-primary);
   border-color: var(--color-primary);
   border-radius: var(--border-radius);
